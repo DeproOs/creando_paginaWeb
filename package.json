@@ -4,7 +4,7 @@
   "description": "creare una pagina para el curso de asincronismo con JS de platzi",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d src/index.html"
   },
   "repository": {
     "type": "git",
