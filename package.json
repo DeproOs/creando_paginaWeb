@@ -4,7 +4,7 @@
   "description": "creare una pagina para el curso de asincronismo con JS de platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DeproOs/creando_paginaWeb/issues"
   },
-  "homepage": "https://github.com/DeproOs/creando_paginaWeb#readme"
+  "homepage": "https://github.com/DeproOs/creando_paginaWeb#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
