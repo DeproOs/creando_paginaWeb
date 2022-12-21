@@ -1,0 +1,20 @@
+{
+  "name": "creando_paginaweb",
+  "version": "1.0.0",
+  "description": "creare una pagina para el curso de asincronismo con JS de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeproOs/creando_paginaWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeproOs/creando_paginaWeb/issues"
+  },
+  "homepage": "https://github.com/DeproOs/creando_paginaWeb#readme"
+}
